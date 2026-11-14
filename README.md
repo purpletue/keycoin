@@ -1,7 +1,7 @@
 # keycoin
 A lottery miner that fits on the keychain.
 ## Software.
-This project currently does NOT have software. it was either ship it without soft or using AI, and im not using AI.
+This project currently does NOT have software. it was either ship it without soft or using AI, and im not using AI. If ANYBODY wants to help on this project, i'd be grateful to the moon.
 ## Features!
 - An MCU
 - A USB-C port
