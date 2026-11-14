@@ -1,6 +1,5 @@
 # keycoin
-A lottery miner that fits on the keychain. 
-## This project uses open source software that wasn't made by me. all credits for everything in the [software](software/) folder was made by tuankiet65. go check them out.
+A lottery miner that fits on the keychain.
 ## Features!
 - An MCU
 - A USB-C port
@@ -8,7 +7,6 @@ A lottery miner that fits on the keychain.
 - to be honest there arent many features its all in the soft
 ## Repository index
 - The root has the README, [LICENSE](LICENSE), and PCB files.
-- The [software](software/) folder has the software, made by tuankiet65.
 ## AI usage declaration
 I always put this in my projects. I didnt use AI in this one at all. not even for guidance, which is what i usually do.
 ## License and date
