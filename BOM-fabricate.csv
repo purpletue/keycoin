@@ -1,5 +1,6 @@
 Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes
-PCB+A,PCB,1,93.98,93.98,https://jlcpcb.com,JLCPCB,Grant,
-Shipping,Shipping,1,32.80,32.80,https://jlcpcb.com,JLCPCB,Grant,
+PCB+A,PCB,1,89.84,89.84,https://jlcpcb.com,JLCPCB,Grant,
+Shipping,Shipping,1,27.79,27.79,https://jlcpcb.com,JLCPCB,Grant,
 Tax,Tax or fee,1,0.63,0.63,https://jlcpcb.com,JLCPCB,Grant,
-Total,,,,127.41,,,,
+Total,,,,118.26,,,,
+
